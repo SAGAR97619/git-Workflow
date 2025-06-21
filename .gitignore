@@ -1,0 +1,8 @@
+password/
+node_modules/
+dist/
+needtoignorethisfile.html
+# Ignore all files in the password directory
+# Ignore node_modules directory
+# Ignore dist directory
+# Ignore needtoignore.txt file  
